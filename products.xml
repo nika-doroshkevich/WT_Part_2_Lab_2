@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product id="1">
+        <price>2900</price>
+        <type>Kettle</type>
+    </product>
+    <product id="2">
+        <price>1300</price>
+        <type>Phone</type>
+    </product>
+    <product id="3">
+        <price>1200</price>
+        <type>Kettle</type>
+    </product>
+    <product id="4">
+        <price>3000</price>
+        <type>Microwave</type>
+    </product>
+    <product id="5">
+        <price>780</price>
+        <type>Kettle</type>
+    </product>
+    <product id="6">
+        <price>3400</price>
+        <type>Phone</type>
+    </product>
+    <product id="7">
+        <price>500</price>
+        <type>Kettle</type>
+    </product>
+    <product id="8">
+        <price>9000</price>
+        <type>Laptop</type>
+    </product>
+    <product id="9">
+        <price>1200</price>
+        <type>Kettle</type>
+    </product>
+</products>
